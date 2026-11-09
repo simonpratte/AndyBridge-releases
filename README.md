@@ -1,6 +1,6 @@
 # AndyBridge releases
 
-Installers for [AndyBridge](https://github.com/simonpratte/AndyBridge-releases), which lets you play Android games on your Windows PC with a controller.
+Installers for AndyBridge, which lets you play Android games on your Windows PC with a controller.
 
 This repository only holds release files. It contains no source code.
 
